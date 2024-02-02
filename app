@@ -1,6 +1,5 @@
 <html>
 <head>
-<meta HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 
 <style>
 /*form styles*/
@@ -23,7 +22,7 @@
 	/*stacking fieldsets above each other*/
 	position: relative;
 }
-/*Hide all except first fieldset*/
+/*Hide all except fsirst fieldset*/
 #msform fieldset:not(:first-of-type) {
 	display: none;
 }
@@ -117,7 +116,10 @@
 	background: #8B1A31;
 	color: white;
 }
+
+
 </style>
+
 </head>
 
 <body>
