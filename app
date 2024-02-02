@@ -131,7 +131,8 @@
     
     
 <form id="msform" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
-    
+
+<input name="00N60000001ek6z"  type="hidden"  value="Bolo Capital">
 
     
 <!-- progressbar -->
@@ -140,7 +141,7 @@
 <li>Additional Details</li>
 <li>Guarantor Details</li>
 </ul>    
-    
+
 <fieldset>
 <h2 class="fs-title">Enter Your Company Information</h2>
     
