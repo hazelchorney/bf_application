@@ -1,6 +1,6 @@
 <html>
 <head>
-
+<meta HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 <style>
 /*form styles*/
 #msform {
@@ -22,7 +22,7 @@
 	/*stacking fieldsets above each other*/
 	position: relative;
 }
-/*Hide all except fsirst fieldset*/
+/*Hide all except first fieldset*/
 #msform fieldset:not(:first-of-type) {
 	display: none;
 }
@@ -116,10 +116,7 @@
 	background: #8B1A31;
 	color: white;
 }
-
-
 </style>
-
 </head>
 
 <body>
@@ -131,8 +128,7 @@
     
     
 <form id="msform" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
-
-<input name="00N60000001ek6z"  type="hidden"  value="Bolo Capital">
+    
 
     
 <!-- progressbar -->
@@ -141,10 +137,11 @@
 <li>Additional Details</li>
 <li>Guarantor Details</li>
 </ul>    
-
+    
 <fieldset>
 <h2 class="fs-title">Enter Your Company Information</h2>
-    
+
+<input name="00N60000001ek6z"  type="hidden"  value="Bolo Capital">
 <input type="hidden" name="oid" value="00D30000000118q">
 <input name="lead_source" type="hidden" value="Webform">
 <input type="hidden" name="retURL" value="https://breweryfinance.com/thank-you-for-your-application/">
