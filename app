@@ -144,7 +144,7 @@
 <input name="00N60000001ek6z"  type="hidden"  value="Bolo Capital">
 <input type="hidden" name="oid" value="00D30000000118q">
 <input name="lead_source" type="hidden" value="Webform">
-<input type="hidden" name="retURL" value="https://breweryfinance.com/thank-you-for-your-application/">
+<input type="hidden" name="retURL" value="https://www.bolocapital.com/thanks">
 <label for="company">Legal Company Name</label><input  id="company" maxlength="40" name="company" size="20" type="text" /><br>
 Doing Business As (DBA) If different than Legal Company Name:<input  id="00N5x00000EuIHp" maxlength="255" name="00N5x00000EuIHp" size="20" type="text" /><br>
 Mailing Street:<input  id="00N5x00000EuAO3" maxlength="255" name="00N5x00000EuAO3" size="20" type="text" /><br>
